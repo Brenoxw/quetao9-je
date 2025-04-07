@@ -1,0 +1,4 @@
+C:\Users\breni\source\repos\projeto b\projeto b\obj\Debug\net8.0\projeto b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breni\source\repos\projeto b\projeto b\obj\Debug\net8.0\projeto b.AssemblyInfoInputs.cache
+C:\Users\breni\source\repos\projeto b\projeto b\obj\Debug\net8.0\projeto b.AssemblyInfo.cs
+C:\Users\breni\source\repos\projeto b\projeto b\obj\Debug\net8.0\projeto b.csproj.CoreCompileInputs.cache
