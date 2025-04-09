@@ -84,27 +84,24 @@ public class NotaFiscal
     }
 }
 
-// Programa principal
+
 public class Program
 {
     public static void Main(string[] args)
-    {
-        // Criando cliente
+
         Cliente cliente = new Cliente("123.456.789-00", "001", "Maria Silva");
 
-        // Criando fornecedor
         Fornecedor fornecedor = new Fornecedor("Loja Tech", "11.222.333/0001-44");
 
-        // Criando produtos
+
         Produto produto1 = new Produto("Mouse Gamer", 150.00);
         Produto produto2 = new Produto("Teclado Mecânico", 300.00);
 
-        // Criando nota fiscal
         NotaFiscal nota = new NotaFiscal(cliente, fornecedor);
         nota.AdicionaProduto(produto1);
         nota.AdicionaProduto(produto2);
 
-        // Imprimindo nota fiscal
+   
         nota.ImprimirNota();
     }
 }
